@@ -6,6 +6,9 @@
 body {
     background-color: #D9DCD6;
 }
+
+/* Header Styling */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -48,6 +51,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Float Styling */
+
 .float-left {
     float: left;
     margin-right: 25px;
